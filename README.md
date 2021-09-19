@@ -8,7 +8,7 @@ Currently working in toward a degree in electrical and computer engineering, at 
 
 ## I'm a Student and a Self-Taught Programmer!
 - ✍ You can find all my projects here [Projects](https://github.com/QadisChaudhry/Projects.git)
-- 🔭 I’m currently working on getting a bachelors in Computer and Electrical Engineering.
+- 🔭 I’m currently working on a bachelors in Computer and Electrical Engineering.
 - 📝 Currently attending Rutgers School of Engieneering.
 - 📚 I’m currently learning RISC-V Assembly Language.
 - 💬 Ask me about ... Anything!
