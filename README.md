@@ -14,7 +14,9 @@ Currently working in toward a degree in electrical and computer engineering, at 
 - 💬 Ask me about ... Anything!
 - ⚡ Fun fact: I have a passion for theoretical physics and cosmology.
 
-With a passion for theoretical as well as practical application, constant curiosity instantiates a life long pursuit of knowledge, not only in the world of today, but of the future as well.
+With a passion for theoretical as well as practical application, constant
+curiosity instantiates a life long pursuit of knowledge, not only in the world
+of today, but of the future as well.
 
 ### Languages and Tools:
 
@@ -31,8 +33,10 @@ With a passion for theoretical as well as practical application, constant curios
 [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"/>](https://neovim.io/)
 [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>](https://iterm2.com/)
 
+<br>
+
 ### Contact Me:
 
-[📫 Email]("qadis.chaudhry@gmail.com")
+[📫]("qadis.chaudhry@gmail.com")
 
 <br>
