@@ -37,5 +37,5 @@ of today, but of the future as well.
 
 ### Contact Me:
 
-Email: qadis.chaudhry@gmail.com
+- 📫 Email: qadis.chaudhry@gmail.com
 
