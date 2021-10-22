@@ -38,4 +38,4 @@ of today, but of the future as well.
 ### Contact Me:
 
 - 📫 Email: qadis.chaudhry@gmail.com
-
+- 🔗 Linkedin: www.linkedin.com/in/QadisChaudhry
