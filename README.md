@@ -10,7 +10,7 @@ Currently working in toward a degree in electrical and computer engineering, at 
 - ✍ You can find all my projects here [Projects](https://github.com/QadisChaudhry/Projects.git)
 - 🔭 I’m currently working on a bachelors in Computer and Electrical Engineering.
 - 📝 Currently attending Rutgers School of Engieneering.
-- 📚 I’m currently learning RISC-V Assembly Language.
+- 📚 I’m currently learning the Java programming language.
 - 💬 Ask me about ... Anything!
 - ⚡ Fun fact: I have a passion for theoretical physics and cosmology.
 
